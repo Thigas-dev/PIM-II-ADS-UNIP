@@ -1,0 +1,14 @@
+{
+    "atividades": [
+        "Python",
+        "& C:/Users/thiago.silva/AppData/Local/Programs/Python/Python313/python.exe \"c:/Users/thiago.silva/Downloads/PIM python/teste.py\""
+    ],
+    "alunos": [
+        {
+            "nome": "Thiago",
+            "notas": {
+                "Python": 5.0
+            }
+        }
+    ]
+}
